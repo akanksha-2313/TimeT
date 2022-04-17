@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+td {
+  text-align: center;
+  border: solid 1px;
+}
+table {
+  border: black;
+  border-collapse: collapse;
+  border: solid 2px;
+  align-content: center;
+  text-align: center;
+}
+th {
+  border: solid 1px;
+}
